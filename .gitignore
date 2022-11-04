@@ -26,6 +26,7 @@ local.properties
 .loadpath
 .recommenders
 dado.sqlite
+.project
 
 # External tool builders
 .externalToolBuilders/
